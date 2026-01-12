@@ -1,26 +1,5 @@
-health-mangement-app/Health_Management_System-main
-/Health_Management_System-main/
-saur07
-saur07
-Add files via upload
-d49524b
+
  · 
-3 minutes ago
-health-mangement-app/Health_Management_System-main
-/Health_Management_System-main/
-Name	Last commit message	Last commit date
-..
-backend
-Add files via upload
-3 minutes ago
-frontend
-Add files via upload
-3 minutes ago
-README.md
-Add files via upload
-3 minutes ago
-README.md
-🏥 Health Management System (HMS)
 A complete Health Management System built with Node.js, Express, SQL Server, and MSSQL library, providing role‑based access for Patients, Doctors, and Admins. The system supports user registration, doctor management, appointment booking, and real‑time chat for appointments.
 
 🚀 Project Motive
